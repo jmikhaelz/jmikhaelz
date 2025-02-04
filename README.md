@@ -8,7 +8,7 @@
 class about_me():
     
   def __init__(self):
-    self.name = "Jesus Miguel Zentenoi";
+    self.name = "Jesus Miguel Zenteno";
     self.username = "jmikhaelz";
     self.location = "Puebla, Mexico";
     self.titles = {"Ingeniro en Cs. De la Computación", "Tecnico en Programación"};
