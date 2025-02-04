@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jesus MZ</h1>
 <h3 align="center">A passionate full stack and Cybersecurity developer from Mexico</h3>
-<p align="center"> <img src="./info.png" size="25px"/> </p>
+<p align="center">
+  <img src="./info.png" width="100"/>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmikhaelz&label=Profile%20views&color=0e75b6&style=flat" alt="jmikhaelz" /> </p>
 
 ```python
