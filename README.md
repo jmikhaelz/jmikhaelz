@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jesus MZ</h1>
 <h3 align="center">A passionate full stack and Cybersecurity developer from Mexico</h3>
-<p align="center"><a href="www.linkedin.com/in/zent-mjesus" target="_blank" rel="noreferrer"> <img src="./info.png" width="40%" height="40%"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/zent-mjesus" target="_blank" rel="noreferrer">
+    <img src="./info.png" width="40%" height="40%"/>
+  </a>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmikhaelz&label=Profile%20views&color=0e75b6&style=flat" alt="jmikhaelz" /> </p>
 
