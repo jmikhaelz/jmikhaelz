@@ -17,6 +17,7 @@ class about_me():
     self.username = "jmikhaelz";
     self.location = "Puebla, Mexico";
     self.titles = {"Ingeniro en Cs. De la Computación", "Tecnico en Programación"};
+    self.languages = {"Español","English"};
   
   def __str__(self):
     return self.name
