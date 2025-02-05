@@ -13,10 +13,10 @@
 class about_me():
     
   def __init__(self):
-    self.name = "Jesus Miguel Zenteno";
+    self.name = "Jesús Miguel Zenteno";
     self.username = "jmikhaelz";
     self.location = "Puebla, Mexico";
-    self.titles = {"Ingeniro en Cs. De la Computación", "Tecnico en Programación"};
+    self.titles = {"Ingeniero en Cs. De la Computación", "Técnico en Programación"};
     self.languages = {"Español","English"};
   
   def __str__(self):
