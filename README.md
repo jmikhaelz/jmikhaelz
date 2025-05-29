@@ -13,9 +13,11 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="./info.png"  />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/zent-mjesus" target="_blank" rel="noreferrer">
+    <img src="./info.png" width="40%" height="40%"/>
+  </a>
+</p>
 
 ###
 
