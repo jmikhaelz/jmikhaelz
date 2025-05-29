@@ -1,8 +1,11 @@
 <h3 align="center">Hi 👋, I'm Jesus Miguel Zenteno</h3>
+<h3 align="center">A passionate backend developer from Mexico</h3>
+<hr>
 
 ###
 
 <div align="right">
+  Connect with me:
   <a href="https://www.linkedin.com/in/zent-mjesus/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
   </a>
@@ -21,6 +24,25 @@
 
 ###
 
+```python
+class about_me():
+
+  def __init__(self):
+    self.name = "Jesús Miguel Zenteno";
+    self.username = "jmikhaelz";
+    self.location = "Puebla, Mexico";
+    self.titles = {"Ingeniero en Cs. De la Computación", "Técnico en Programacion">
+    self.languages = {"Español","English"};
+
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = about_me()
+```
+
+
+###
 <br clear="both">
 
 <picture>
@@ -30,7 +52,7 @@
 </picture>
 
 ###
-
+<h3 align="left">Languages and Tools:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
   <img width="10" />
@@ -105,4 +127,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jmikhaelz&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
+###
+![Profile Readme Generator]('https://github.com/maurodesouza/profile-readme-generator.git')
 ###
