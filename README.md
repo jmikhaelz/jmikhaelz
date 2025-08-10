@@ -2,7 +2,7 @@
 Jesús Miguel Zenteno | Backend Developer en transición a Full Stack<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/zent-mjesus" target="_blank" rel="noreferrer">
-    <img src="./info.png" width="20%" height="20%"/>
+    <img src="./info.png" width="30%" height="30%"/>
   </a>
 </p>
 <br>📍 México  <br>🎓 Ingeniero en Ciencias de la Computación (BUAP)  <br>🎓 Tecnico en Programacion (DGETI)<br>🛠️ Experiencia en Bash, PHP, SQL, JavaScript, Spring Boot, React  <br>🔍 Interés en automatización, optimización de sistemas y ciberseguridad  <br>📈 En constante aprendizaje y enfocado en aportar soluciones escalables<br><br>Actualmente trabajando en proyectos que integran frontend y backend, con enfoque en eficiencia, seguridad y buenas prácticas de desarrollo.<br>
